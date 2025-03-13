@@ -25,6 +25,10 @@ else
 // Использовать маршрутизацию
 app.UseRouting();
 
+app.UseHttpsRedirection();
+
+app.UseAuthorization();
+
 // Маршрутизация запросов к контроллерам
 app.UseEndpoints(endpoints =>
 {

@@ -31,3 +31,4 @@ C:\Users\volco\StudentApi\obj\Debug\net9.0\refint\StudentApi.dll
 C:\Users\volco\StudentApi\obj\Debug\net9.0\StudentApi.pdb
 C:\Users\volco\StudentApi\obj\Debug\net9.0\StudentApi.genruntimeconfig.cache
 C:\Users\volco\StudentApi\obj\Debug\net9.0\ref\StudentApi.dll
+C:\Users\volco\StudentApi\obj\Debug\net9.0\StudentApi.sourcelink.json
